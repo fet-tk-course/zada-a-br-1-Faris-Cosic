@@ -12,6 +12,12 @@ GitHub username: Faris-Cosic
 
 ---
 
+## Uvod
+
+Ja sam Faris Ćosić. Student sam Fakulteta elektrotehnike u Tuzli i trenutno sam treća godina.
+
+---
+
 ## Opis zadatka
 
 Cilj ovog zadatka je da uvježbate osnovne Git operacije:
