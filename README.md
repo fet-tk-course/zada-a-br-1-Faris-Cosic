@@ -1,12 +1,20 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/eAZLlGv8)
+
 # Git zadaca – branch, pull request & merge conflict
 
 Predmet: Razvoj telekomunikacijske programske podrške
 
 ## Student
 
-Ime i prezime:
+Ime i prezime: Faris Ćosić
 
-GitHub username:
+GitHub username: Faris-Cosic
+
+---
+
+## Uvod
+
+Ja sam Faris Ćosić. Student sam Fakulteta elektrotehnike u Tuzli i trenutno sam treća godina.
 
 ---
 
@@ -92,6 +100,7 @@ Pokušajte spojiti granu **conflict-test** u **main**.
 Git će prijaviti merge konflikt.
 
 Potrebno je:
+
 - otvoriti README.md
 - pronaći konflikt
 - ručno urediti konačnu verziju
@@ -112,4 +121,4 @@ Repozitorij treba sadržavati:
 
 ---
 
-Ovaj repo sadrži moj GitHub zadaću.
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj telekomunikacijske programske podrške.
